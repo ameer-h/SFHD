@@ -69,6 +69,9 @@ http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1,Al Quran-ul-Kareem
 http://58.65.194.14:1935/live/Al-Quran-Al-Kareem.stream/playlist.m3u8
 
+#EXTINF:-1,Saudi On Demand
+https://ythls.onrender.com/video/EufZaaKZ6Ng.m3u8
+
 #EXTINF:-1,BBC Brit HD
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
 
