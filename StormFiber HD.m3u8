@@ -24,9 +24,6 @@ http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
 #EXTINF:-1,PTV News HD
 http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 
-#EXTINF:-1,Green Entertainment HD
-http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
-
 #EXTINF:-1,Channel News Asia
 http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 
@@ -323,6 +320,9 @@ http://58.65.194.14:1935/live/Geo-entertainment.stream/playlist.m3u8
 
 #EXTINF:-1,ARY Digital
 http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
+
+#EXTINF:-1,Green Entertainment HD
+http://58.65.194.14:1935/live/Green-Entertainment-HD.stream/playlist.m3u8
 
 #EXTINF:-1,Express Entertainment
 http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
