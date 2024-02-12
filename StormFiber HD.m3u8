@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,ARY News
-http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
+https://webtv3.ebravo.pk:1935/live/Ary-news.stream/playlist.m3u8
 
 #EXTINF:-1,Geo News
 http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
