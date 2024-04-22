@@ -6,17 +6,26 @@ https://webtv2.ebravo.pk:1935/live/Ary-news.stream/playlist.m3u8
 #EXTINF:-1,Geo News
 https://webtv3.ebravo.pk:1935/live/Geo-news.stream/playlist.m3u8
 
+#EXTINF:-1,Geo News (IPTV)
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+
 #EXTINF:-1,Samaa News
 https://webtv2.ebravo.pk:1935/live/Samaa.stream/playlist.m3u8
 
 #EXTINF:-1,Express News
 https://webtv2.ebravo.pk:1935/live/express.stream/playlist.m3u8
 
+#EXTINF:-1,Express News (IPTV)
+https://ythls.armelin.one/channel/UCTur7oM6mLL0rM2k0znuZpQ.m3u8
+
 #EXTINF:-1,Dunya News
 https://webtv2.ebravo.pk:1935/live/DunyaNews.stream/playlist.m3u8
 
 #EXTINF:-1,Hum News HD
 https://webtv2.ebravo.pk:1935/live/HUM-News.stream/playlist.m3u8
+
+#EXTINF:-1,Hum News HD (IPTV)
+https://ythls.armelin.one/channel/UC0Um3pnZ2WGBEeoA3BX2sKw.m3u8
 
 #EXTINF:-1,Bol News HD
 https://webtv2.ebravo.pk:1935/live/BOL-TV.stream/playlist.m3u8
@@ -54,6 +63,9 @@ https://webtv2.ebravo.pk:1935/live/Euro-news.stream/playlist.m3u8
 #EXTINF:-1,BBC World News
 https://webtv2.ebravo.pk:1935/live/BBC-world-news-HD.stream/playlist.m3u8
 
+#EXTINF:-1,BBC South Asia New (IPTV)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+
 #EXTINF:-1,CNN
 https://webtv2.ebravo.pk:1935/live/CNN.stream/playlist.m3u8
 
@@ -77,6 +89,21 @@ https://webtv2.ebravo.pk:1935/live/Comedy-Central-HD.stream/playlist.m3u8
 
 #EXTINF:-1,Comedy Central Family HD
 https://webtv2.ebravo.pk:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
+
+#EXTINF:-1,Comedy Dynamics (IPTV)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+
+#EXTINF:-1,Humor Mill (IPTV)
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+
+#EXTINF:-1,Just For Laughs (IPTV)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+#EXTINF:-1,LOL Standup (IPTV)
+https://lnc-lol-stand-up.tubi.video/playlist.m3u8
+
+#EXTINF:-1,LOL! Network (IPTV)
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Fox HD
 https://webtv2.ebravo.pk:1935/live/FOX-HD.stream/playlist.m3u8
@@ -123,6 +150,9 @@ https://webtv2.ebravo.pk:1935/live/History%20HD.stream/playlist.m3u8
 #EXTINF:-1,Arirang
 https://webtv2.ebravo.pk:1935/live/Arirang.stream/playlist.m3u8
 
+#EXTINF:-1,Arirang (IPTV)
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
 #EXTINF:-1,BBC First HD
 https://webtv2.ebravo.pk:1935/live/bbcfirst.stream/playlist.m3u8
 
@@ -162,8 +192,98 @@ https://webtv2.ebravo.pk:1935/live/MBC-Action-HD.stream/playlist.m3u8
 #EXTINF:-1,MBC 4 HD
 https://webtv2.ebravo.pk:1935/live/MBC-4.stream/playlist.m3u8
 
+#EXTINF:-1,MBC Bollywood (IPTV)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
 #EXTINF:-1,AMC HD
 https://webtv2.ebravo.pk:1935/live/OSN%20Series%20First%20HD.stream/playlist.m3u8
+
+#EXTINF:-1,FilmRise Free Movies (IPTV)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1,FilmRise SciFi (IPTV)
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
+
+#EXTINF:-1,Paramount Movie Channel (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1,Paramount Plus Picks (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
+#EXTINF:-1,Pluto Staff Picks (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto 70s Movies (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto 80s Movies (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto 90s Movies (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Mystery Science Theater 3000 (IPTV)
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Mystery Science Theater 3000 (MST3K)  (IPTV)
+https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
+
+#EXTINF:-1,Samuel Goldwyn Classics (IPTV)
+https://lnc-samuel-goldwyn-classics.tubi.video/playlist.m3u8
+
+#EXTINF:-1,Turner Classic Movies (TCM) East (IPTV)
+http://143.244.60.30/TCM/index.m3u8
+
+#EXTINF:-1,The Carol Burnett Show (IPTV)
+https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
+
+#EXTINF:-1,The Archive (IPTV)
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
+
+#EXTINF:-1,Pluto Comedy TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
+
+#EXTINF:-1,Pluto Comedy Central (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4947590ba40f75dc29c26b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1,Pluto Comedy AF (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto Sony Canal Comedy (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
+#EXTINF:-1,Pluto Stand Up (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto Sitcoms (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto Comedy Central Animation (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto Classic TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
+
+#EXTINF:-1,Pluto Classic Comedy TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e32b297f96000768f928&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=501&terminate=false&userId=
+
+#EXTINF:-1,Pluto Classic Drama TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e3cccf49290007053c67&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=520&terminate=false&userId=
+
+#EXTINF:-1,Redbox 2: Comedy (IPTV)
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Pluto Family TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto Game Show Central (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto British TV (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
+
+#EXTINF:-1,Bollywood Classic (IPTV)
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 
 #EXTINF:-1,History Channel HD
 https://webtv2.ebravo.pk:1935/live/MTV-Live-HD.stream/playlist.m3u8
@@ -222,8 +342,65 @@ https://webtv2.ebravo.pk:1935/live/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 https://webtv2.ebravo.pk:1935/live/Cartoon-network.stream/playlist.m3u8
 
+#EXTINF:-1,Cartoon Network Japan (IPTV)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1,Cartoon Network SEA (IPTV)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1,Cartoonito (IPTV)
+http://stream.flynetwifi.com:1936/live/mobile-055/playlist.m3u8
+
 #EXTINF:-1,KidsZone
 https://webtv2.ebravo.pk:1935/live/Kidszone.stream/playlist.m3u8
+
+#EXTINF:-1,Animax (IPTV)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1,AT-X (IPTV)
+https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1,Pluto Anime (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1,Pluto Anime All Day (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+
+#EXTINF:-1,Pluto One Piece (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pokemon Kids TV (IPTV)
+https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
+
+#EXTINF:-1,Mnet Kids (IPTV)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+
+#EXTINF:-1,Pluto TV Kids (IPTV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1,Pluto TV Kids Animation (IPTV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,PBS Kids (IPTV)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1,MBC 3 Kids (IPTV)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+
+#EXTINF:-1,Retro Crush (IPTV)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+
+#EXTINF:-1,ABC Me (IPTV)
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1,Baby Shark TV (IPTV)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Retro Cartoon (IPTV)
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1,eSports Max (IPTV)
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1,A Sports HD
 https://webtv1.ebravo.pk:1935/live/Asport.stream/playlist.m3u8
@@ -351,8 +528,14 @@ https://webtv2.ebravo.pk:1935/live/13%20Ulica%20HD.stream/playlist.m3u8
 #EXTINF:-1,Channel 24 HD News
 https://webtv2.ebravo.pk:1935/live/Channel24.stream/playlist.m3u8
 
+#EXTINF:-1,Channel 24 HD News (IPTV)
+https://ythls.armelin.one/channel/UCcmpeVbSSQlZRvHfdC-CRwg.m3u8
+
 #EXTINF:-1,Aaj News
 https://webtv2.ebravo.pk:1935/live/AajNews.stream/playlist.m3u8
+
+#EXTINF:-1,Aaj News (IPTV)
+https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8
 
 #EXTINF:-1,Neo News HD
 https://webtv2.ebravo.pk:1935/live/NeoNewsHD.stream/playlist.m3u8
